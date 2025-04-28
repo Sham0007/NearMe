@@ -1,5 +1,5 @@
 # Ex04 Places Around Me
-## Date: 
+## Date: 26/04/2025
 
 ## AIM
 To develop a website to display details about the places around my house.
@@ -26,7 +26,7 @@ Execute the programs and publish them.
 
 ## CODE
 ```
-views.py
+ views.py
 
 
 
